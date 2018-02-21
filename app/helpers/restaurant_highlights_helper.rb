@@ -1,0 +1,2 @@
+module RestaurantHighlightsHelper
+end

@@ -1,0 +1,2 @@
+module CuisinsHelper
+end
